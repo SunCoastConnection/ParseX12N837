@@ -1,7 +1,7 @@
 {
     "name": "suncoast-connection/parsex12n837",
     "description": "Parse X12N837 files.",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Sam Likins",
@@ -34,7 +34,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/SunCoastConnection/ParseX12.git"
+            "url":  "git@github.com:SunCoastConnection/ParseX12.git"
         }
     ]
 }
