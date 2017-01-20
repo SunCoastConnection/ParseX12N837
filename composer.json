@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "suncoast-connection/parsex12": "dev-master"
+        "suncoast-connection/parsex12": "0.1.*"
    	},
     "require-dev": {
         "laravel/homestead": "^4",
